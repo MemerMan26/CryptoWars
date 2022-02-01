@@ -1,8 +1,8 @@
-# Meme_Game
+# Meme Game
 Some Random Meme Game
-#Contact Me
+# Contact Me
 No Leave Me Alone
-#Updates
+# Updates
 Trello: https://trello.com/b/sOdCCGMB/meme-game
-#Full Release
-Prob Never
+# Full Release
+Prob Never But Possible
