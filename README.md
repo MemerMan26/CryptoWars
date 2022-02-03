@@ -8,4 +8,4 @@ Trello: https://trello.com/b/sOdCCGMB/meme-game
 Prob Never But Possible
 
 
-this was origanly a meme game but i have a better idia..
+this was origanly a meme game but i have a better idea...
