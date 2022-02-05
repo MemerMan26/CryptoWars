@@ -1,11 +1,15 @@
 # Crypto Game
 Some Random Crypto Game
 # Contact Me
-No Leave Me Alone
+I Am On Discord Send Me Ideas Please
+
+MemerMan26#8768
+
+Don't Ask Me About Release Please
 # Updates
-Trello: https://trello.com/b/sOdCCGMB/meme-game
+Trello: https://trello.com/b/sOdCCGMB/crypto-wars
+
 # Full Release
-Prob Never But Possible
+When It's Done In A Few Years
 
-
-this was origanly a meme game but i have a better idea...
+Might Never Get Done Because I Have Minimal Coding Skills
