@@ -5,7 +5,7 @@ I Am On Discord Send Me Ideas Please
 
 MemerMan26#8768
 
-Don't Ask Me About Release Please
+Don't Ask Me About Release
 # Updates
 Trello: https://trello.com/b/sOdCCGMB/crypto-wars
 
